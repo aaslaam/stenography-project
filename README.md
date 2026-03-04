@@ -44,22 +44,27 @@ Even if the images look identical, the hashes will differ proving that the image
 6.	Testing & Validation: Verified the tool using PNG images and confirmed successful extraction of messages
    
 ## How to Run the Project
-Step 1: 
-Clone git repository 
-Step 2:
+
+### step 1: 
+Clone git repository.  Run
+```bash
+ git clone https://github.com/aaslaam/stenography-project.git
+```
+
+### Step 2:
 Make sure python is installed and run the following commands in terminal on project directory
 ```bash
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
-Step 3
+### Step 3
 Place the image that you want to add the message to in the project dir
 
-Step 4
+### Step 4
 run :
 ```bash
-python3 steganography.py
+python3 stegnography..py
 ```
 ## Use the Menu
 Select Option 1 to hide a message. Enter your filename.png and the secret text.
