@@ -29,7 +29,7 @@ Before and after the hiding process, the tool calculates a SHA-256 Hash.
 •	Post-encoding Hash: Represents the image with the secret message
 Even if the images look identical, the hashes will differ proving that the image is tampered with
 ## Steps Involved in Building the Project
-1.	Initialized a Python Virtual Environment (venv) \
+1.	Initialized a Python Virtual Environment (venv) 
 2.	 Installed pillow and  stepic 
 3.	Developed sternography.py with functions to hide and show data
 4.	Integrated hashlib to automate the calculate hash values
@@ -48,17 +48,18 @@ pip install -r requirements.txt
 ```
 Step 3
 Place the image that you want to add the message to in the project dir
-Step 4
 
+Step 4
+run :
 ```bash
 python3 steganography.py
 ```
-Use the Menu
+## Use the Menu
 Select Option 1 to hide a message. Enter your filename.png and the secret text.
 The tool will output a file named secret_image.png.
 Select Option 2 and enter secret_image.png to extract and view the hidden data.
 
- Conclusion
+ ## Conclusion
 The project successfully demonstrates how steganography can be used for covert communication. By adding SHA-256 validation, the project ensures integrity
 
 
