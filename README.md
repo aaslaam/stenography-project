@@ -1,8 +1,12 @@
 # stenography-project
 Program wich lets you hide and extract messages inside images
+
 Project Title: **Image Steganography with Cryptographic Integrity Validation**
+
 Name: **Muhammed Aslam**
+
 Domain: Cyber Security
+
 Date: March 2026
 
 # Intro
