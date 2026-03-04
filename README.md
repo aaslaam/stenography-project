@@ -16,11 +16,14 @@ This project implements **the Least Significant Bit (LSB) steganography techniqu
 
 ## Tools and Technologies
 
-Language: Python 3.12
+Language: **Python 3.12**
+
 Libraries: 
-	Pillow: For advanced image manipulation.
-	Stepic: For LSB encoding/decoding.
-	Hashlib : For generating SHA-256 integrity checksums
+**Pillow** : For advanced image manipulation
+
+**Stepic** : For LSB encoding/decoding
+
+**Hashlib**: For generating SHA-256 integrity checksums
 
 
 ## Implementation Logic (How it Works)
