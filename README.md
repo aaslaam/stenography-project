@@ -40,7 +40,7 @@ Even if the images look identical, the hashes will differ proving that the image
 2.	 Installed pillow and  stepic 
 3.	Developed sternography.py with functions to hide and show data
 4.	Integrated hashlib to automate the calculate hash values
-5.	Built a menu for user input
+5.	Built  GUI for easy acess
 6.	Testing & Validation: Verified the tool using PNG images and confirmed successful extraction of messages
    
 ## How to Run the Project
