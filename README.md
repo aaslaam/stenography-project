@@ -66,10 +66,6 @@ run :
 ```bash
 python3 stegnography..py
 ```
-## Use the Menu
-Select Option 1 to hide a message. Enter your filename.png and the secret text.
-The tool will output a file named secret_image.png.
-Select Option 2 and enter secret_image.png to extract and view the hidden data.
 
  ## Conclusion
 The project successfully demonstrates how steganography can be used for covert communication. By adding SHA-256 validation, the project ensures integrity
